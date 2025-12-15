@@ -14,8 +14,8 @@ The uploaded [QC dataset](https://www.kaggle.com/datasets/pipluppp/quezon-city-i
 
 Kaggle notebook runs for the six models, together with the local copies of the notebooks with output. 
 
-- **ConvNeXt UNet decoder Satellite** ([Kaggle notebook](https://www.kaggle.com/code/pipluppp/2025-09-23-unetdecoder?scriptVersionId=285953239) and [Local copy](kaggle_runs\convnext-unet-satellite.ipynb))
-- **ConvNeXt encoder-decoder Satellite** ([Kaggle notebook](https://www.kaggle.com/code/kcbognot/2025-9-22-baseline-training?scriptVersionId=263273041) and [Local copy](kaggle_runs\convnext-satellite.ipynb))
+- **ConvNeXt UNet decoder Satellite** ([Kaggle notebook](https://www.kaggle.com/code/pipluppp/2025-09-23-unetdecoder?scriptVersionId=285953239) and [Local copy](kaggle_runs/convnext-unet-satellite.ipynb))
+- **ConvNeXt encoder-decoder Satellite** ([Kaggle notebook](https://www.kaggle.com/code/kcbognot/2025-9-22-baseline-training?scriptVersionId=263273041) and [Local copy](kaggle_runs/convnext-satellite.ipynb))
 - **ConvNeXt encoder-decoder Building count** ([Kaggle notebook](https://www.kaggle.com/code/togepiiiiiiiiiiiii/2025-9-22-baseline-training?scriptVersionId=263269916) and [Local copy](kaggle_runs/convnext-bc.ipynb))
 - **ConvNeXt encoder-decoder Building height** ([Kaggle notebook](https://www.kaggle.com/code/lannzsalalima/2025-9-22-baseline-training?scriptVersionId=263273331) and [Local copy](kaggle_runs/convnext-bh.ipynb))
 - **ConvNeXt encoder-decoder Pixel-level fusion All** ([Kaggle notebook](https://www.kaggle.com/code/gwynethannegabales/2025-9-22-baseline-training?scriptVersionId=263273075) and [Local copy](kaggle_runs/convnext-fusion-all.ipynb))
